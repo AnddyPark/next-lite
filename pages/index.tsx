@@ -54,7 +54,7 @@ const HomePage = () => {
           <br />
           Despliegue automatico real
           <br />
-          via webhook - prueba 2026-10-04
+          via webhook - prueba automatica 100% via webhook
         </h2>
       </div>
       <div className="flex flex-col space-y-4">
