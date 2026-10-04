@@ -38,3 +38,4 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/dayvis
 
 - [Next.js - Replace React with Preact](https://darrenwhite.dev/blog/nextjs-replace-react-with-preact) by [Darren White](https://darrenwhite.dev/), with inspiration from [Lee Robinson](https://leerob.io/)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
+\n\n<!-- prueba real Aplicaciones/Desarrollo ClickPanda 2026-10-04 -->
