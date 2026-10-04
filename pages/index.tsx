@@ -50,11 +50,11 @@ const HomePage = () => {
           <p className="text-2xl pointer-events-none">🥬</p>
         </div>
         <h2 className="text-xl font-bold">
-          The Minimalist
+          ClickPanda
           <br />
-          (Yet Opinionated)
+          Despliegue automatico real
           <br />
-          Next.js Starter Template
+          via webhook - prueba 2026-10-04
         </h2>
       </div>
       <div className="flex flex-col space-y-4">
